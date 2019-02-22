@@ -4,11 +4,17 @@ Perform the following tasks using the CLI and copy and paste
 the commands and results below.
 
 - Navigate to your home directory
+cd ~
 - Create a new directory called CodingNomads. We will use this folder
 to house materials for the course.
+
+
 - Move into the CodingNomads folder
+
 - Create new folder cli_testing
+
 - Inside of folder cli_testing,
+
     a. print the directory path
     b. create 3 new .txt files all with different names (file1.txt,
     file2.txt, file3.txt)

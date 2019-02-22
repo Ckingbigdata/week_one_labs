@@ -10,3 +10,18 @@ Write the necessary code to print the following to the console:
     P         Y         T      H    H      O     N       N
 
 '''
+
+
+def giant_python_exercise():
+    '''Make a giant Python'''
+
+    print("PPPP    Y    Y  TTTTTTTTT  H     H      O     N       N")
+    print("P  P     Y  Y        T     H     H     O O    N N     N")
+    print("P  P      YY         T     H     H    O   O   N  N    N")
+    print("PPPP       Y         T     HHHHHHH    O   O   N   N   N")
+    print("P          Y         T     H     H    O   O   N    N  N")
+    print("P          Y         T     H     H     O O    N     N N")
+    print("P          Y         T     H     H      O     N       N")
+
+giant_python_exercise()
+
